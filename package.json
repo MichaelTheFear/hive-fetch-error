@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@graphql-hive/gateway": "^1.2.0",
+    "@graphql-mesh/compose-cli": "^1.1.1",
+    "@omnigraph/openapi": "^0.107.1",
+    "@whatwg-node/fetch": "^0.9.21"
+  }
+}
